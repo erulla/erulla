@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erulla
 - 👀 I’m interested in ... learning new skills
 - 🌱 I’m currently learning ... python, java
-- 💞️ I’m looking to collaborate on ... projects when I'm ready
 - 📫 How to reach me ... Message me!
 
 <!---
